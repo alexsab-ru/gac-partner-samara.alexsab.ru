@@ -12,7 +12,7 @@ import react from '@astrojs/react';
 export default defineConfig({
 	integrations: [
 		tailwind({
-			configFile: './tailwind.config.js'
+			configFile: './tailwind.gac.js'
 		}),
 		sitemap(),
 		robots({
@@ -32,6 +32,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://site.com',
+	site: 'https://gac-partner-samara.alexsab.ru',
 	base: "/"
 });
