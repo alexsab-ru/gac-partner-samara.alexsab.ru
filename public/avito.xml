@@ -488,67 +488,6 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>c87ba62f4772f0037611112767abcd78</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Указанная стоимость с учетом комплексной сделки.
-
-Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
-
-Гарантия от производителя 5 лет или 150 000км.
-
-Привлекательные условия кредитования и страхования.
-
-Обмен вашего автомобиля по программе Trade-in.
-
-GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
-
-Цена указана с учетом установленного дополнительного оборудования.
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2549000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>196000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>396000</MaxDiscount>
-		<Color>СЕРЫЙ</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/6cf8abd613ba8a2f2292e1c6c48c9845.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/dc7d1295ec5f5d91e43ab58fc4c310ad.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/160ae24e5d87f3e493aeb9a1b43305b2.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/823da2f0ace6eb20d1220f625f4ae48a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/c4b770d5360bc0404cab0b92b59cd19d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/b486795e12d2b6cec1205942d2a301b7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/928a8561fd176fb52cef3d22e7c3c30b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/bec3ea1cd06115a7e217e1632a96d6f8.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/31811167b2fa5491c7e2dbef703b479e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/1409e09632572956c4d74444d0d689d9.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/02f44b59d564042c70ed4b21c7eddd1a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/1b39ad3995a8cbf27b064f62ef9dd9da.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/a135dbd75a2a5e55753fd9998e651bcf.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/37d5ecd3329a934efdb8a9857a91099f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/9781b03f45534dd37e325812f53dc622.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/3e3e3570dd5d684e5ce115c0f31fa566.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/a2a27a55829b2e865cb642775df20011.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/8ee11a1dd0f06f9eeac484c541450692.jpeg" />
-		</Images>
-		<Make>GAC</Make>
-		<Model>GS3</Model>
-		<GenerationId>22033653</GenerationId>
-		<ModificationId>22033654</ModificationId>
-		<ComplectationId>22033657</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LMGHT1L50R3072880</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>9f619b7e084acf278541e21a21affc8c</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -607,6 +546,67 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGHT1L53R3072873</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>c87ba62f4772f0037611112767abcd78</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2549000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>196000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>396000</MaxDiscount>
+		<Color>СЕРЫЙ</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/6cf8abd613ba8a2f2292e1c6c48c9845.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/dc7d1295ec5f5d91e43ab58fc4c310ad.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/160ae24e5d87f3e493aeb9a1b43305b2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/823da2f0ace6eb20d1220f625f4ae48a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/c4b770d5360bc0404cab0b92b59cd19d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/b486795e12d2b6cec1205942d2a301b7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/928a8561fd176fb52cef3d22e7c3c30b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/bec3ea1cd06115a7e217e1632a96d6f8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/31811167b2fa5491c7e2dbef703b479e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/1409e09632572956c4d74444d0d689d9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/02f44b59d564042c70ed4b21c7eddd1a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/1b39ad3995a8cbf27b064f62ef9dd9da.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/a135dbd75a2a5e55753fd9998e651bcf.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/37d5ecd3329a934efdb8a9857a91099f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/9781b03f45534dd37e325812f53dc622.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/3e3e3570dd5d684e5ce115c0f31fa566.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/a2a27a55829b2e865cb642775df20011.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L50R3072880/8ee11a1dd0f06f9eeac484c541450692.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L50R3072880</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -1176,7 +1176,26 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<InsuranceDiscount />
 		<MaxDiscount>400000</MaxDiscount>
 		<Color>СЕРЫЙ</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/b7bae6cc7e4d1154bbc7e3310ef4d974.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/cfa7b977d3777861efeca04edf300fa7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/ba4ef00ad4488458caf8c7f63dee31b5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/f49f4766e66ad5cfc6ce90c05df2c9b2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/197ccb3529a97888dc2df8066ae12141.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/671fadaea9b2cd119cab21f2a4c25a40.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/19d4e39fd6ab2b27211bad8f43e23b7e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/3f27119525d1281b36639b0566579793.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/9e974e1b4ab63ef684c84fd25e85b838.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/37878754c5d2ffeedcf1215e44b56030.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/4c21b7c7d30554513e46214697c5664d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/43e98457d1837f6287af2d0a7699a35c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/9898c2659fdf24252238677dc7ec130c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/31dc87c13e5870eecd266b018580554a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/2f1cbd9323943365768f5009372e6924.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/e2da5abf3cb456a231dd1de0e6adc739.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/91c8178593b47f3885cb59a59c0bd6ec.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3084684/ac88ff9f145846e53e77807eadea8554.jpeg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS3</Model>
 		<GenerationId>22033653</GenerationId>
@@ -1218,7 +1237,26 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<InsuranceDiscount />
 		<MaxDiscount>400000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/39f03f0c510ef72dd4e597fa796c4832.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/b6476e9ff3d6b0c13f93956f01fd10bd.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/e099df41af48fc29d4b64aedbd4effb1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/6856ff2ca83c5f699d8fd0d939607a2a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/7719325b789e06ce3b31a4857c279323.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/e655c8d03bcd500696ed7330dffe61ab.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/9714d09f2c31bb5e2ea7f341b0cae639.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/aa7d1cb15d5b1f16542930fdd6f64a51.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/457241580481e38d6d9ed6f6fc9d8bd0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/0f1290c281a0b105a987e07896f17a91.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/d3b78fef2b71f750153d57b80f53332b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/c505c468df7f19bbc655aba1b3a03574.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/65152e58c77b6a8af2e6bd10f265cf0e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/a66c3c9b32ef0eba62cd869cd1547dc0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/f38149292b03ea18b31a87ef856ede48.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/25d99efed2b9183826ef4ab1ac095412.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/369d51e79a1d9fd56fe5940f91f91dec.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/bd11577b53ad256495298adc8e2cda42.jpeg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS3</Model>
 		<GenerationId>22033653</GenerationId>
@@ -2146,7 +2184,24 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 		<InsuranceDiscount />
 		<MaxDiscount>450000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/84efd0b162498b1758011b928e15980e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/2d5bbe7533a085f738932e5c6a8901e6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/2a6aa69f44c90075b10ae025fc05b746.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/e45fa50ea1b2741e056e2729331c2c6d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/8f8176002a5c8d97d32aef1bd05f3414.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/7c28a1ebe0238fe578d777a6972094a9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/edc29bf19d4c8a75b9b100520d192a21.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/aec6cee46da6262e811a531e44ea98b2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/1098a67678076adedbadb56dbee35d07.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/7b05a1df090cd31c481545d59b5fb8c1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/931a8c66307d094d18f50b56ff9444cd.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/3195276c785c557fbbba917d0b73d18a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/d14f357a75a673855bd056b91c68e8ba.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/8e5a4f6fac32105ba1281cdf0594da80.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/4a16edb68b744c04f5dbbe0da3849713.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1036999/27a0e9f2c4b560abf0a91cc7e2400586.jpeg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8</Model>
 		<GenerationId>17554087</GenerationId>
@@ -2362,73 +2417,6 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>0a335879a5c2a11824e57f56396122d8</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Указанная стоимость с учетом комплексной сделки.
-
-Oфициальный дилер GAС Центр Север в Самаре представляeт!
-
-Нoвый aвтомoбиль GAС GS8 – coчeтaниe уникального дизaйна и перeдовыx тexнoлoгий! 
-
-✅ Гарaнтия от прoизводитeля 5 лет или 150 000км.
-
-✅ Пoлный пакeт дoкументов
-
-✅ Привлекaтельныe условия крeдитования и cтpaхoвaния
-
-✅ Тест-дpaйв пo прeдваpительнoй зaпиcи
-
-✅ Обмeн Bашeгo aвтомобиля по программе Тrаdе-in
-
-Новое поколение превосходства - так звучит слоган новой абсолютно новой модели GАС GS8. Приезжайте к нам и убедитесь в этом сами. Дизайн и характеристики не оставят вас равнодушными!
-
-Цена указана с учетом установленного дополнительного оборудования.
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>4649000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>610000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/2e578b0f47318b94e1477a0df76fbef2.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/feaf9b7679b5e4d0fcc7a4200149029c.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/828899db35609680f95ca0f021ff3c13.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/d10e97104ed33b19c8145dcccfd8c507.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/52fe6b76ce279a1de0417be979684a4c.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/85fd87f1783c6b86fd43adbfe2b7b047.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/09524dd2ba83c537069b33f28f0d55ac.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/a774194b2501fa9c1fb1d8aa4e603168.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/02d73db88357066e1bc659ac57710db9.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/85fd10e3aef22c8057c0c729c4e05a3b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/dc0bfe458670abcd916c1ae27232519e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/7faeac0dc1916d82830c57c03666da82.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/6992c902e5a0f2a34c70badd9fa671dd.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/bb47ce3cf60620a997396be6419479dc.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/914d9fdf6c8de1df587873af2d43c7e6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/8f4749aa21d85cb4905e62a685fc4ff3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/02f633b74853a12c3f4ddf69417153d3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/73ca2355f5621199ad2baadd34d22418.jpeg" />
-		</Images>
-		<Make>GAC</Make>
-		<Model>GS8</Model>
-		<GenerationId>17554087</GenerationId>
-		<ModificationId>18621573</ModificationId>
-		<ComplectationId>18621576</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G82R1035386</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>9313a123a02133f99874636bcac728ff</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -2493,6 +2481,73 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGJU3G81R1036724</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>0a335879a5c2a11824e57f56396122d8</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Oфициальный дилер GAС Центр Север в Самаре представляeт!
+
+Нoвый aвтомoбиль GAС GS8 – coчeтaниe уникального дизaйна и перeдовыx тexнoлoгий! 
+
+✅ Гарaнтия от прoизводитeля 5 лет или 150 000км.
+
+✅ Пoлный пакeт дoкументов
+
+✅ Привлекaтельныe условия крeдитования и cтpaхoвaния
+
+✅ Тест-дpaйв пo прeдваpительнoй зaпиcи
+
+✅ Обмeн Bашeгo aвтомобиля по программе Тrаdе-in
+
+Новое поколение превосходства - так звучит слоган новой абсолютно новой модели GАС GS8. Приезжайте к нам и убедитесь в этом сами. Дизайн и характеристики не оставят вас равнодушными!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>4649000</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>310000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>610000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/2e578b0f47318b94e1477a0df76fbef2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/feaf9b7679b5e4d0fcc7a4200149029c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/828899db35609680f95ca0f021ff3c13.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/d10e97104ed33b19c8145dcccfd8c507.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/52fe6b76ce279a1de0417be979684a4c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/85fd87f1783c6b86fd43adbfe2b7b047.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/09524dd2ba83c537069b33f28f0d55ac.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/a774194b2501fa9c1fb1d8aa4e603168.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/02d73db88357066e1bc659ac57710db9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/85fd10e3aef22c8057c0c729c4e05a3b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/dc0bfe458670abcd916c1ae27232519e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/7faeac0dc1916d82830c57c03666da82.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/6992c902e5a0f2a34c70badd9fa671dd.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/bb47ce3cf60620a997396be6419479dc.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/914d9fdf6c8de1df587873af2d43c7e6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/8f4749aa21d85cb4905e62a685fc4ff3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/02f633b74853a12c3f4ddf69417153d3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1035386/73ca2355f5621199ad2baadd34d22418.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS8</Model>
+		<GenerationId>17554087</GenerationId>
+		<ModificationId>18621573</ModificationId>
+		<ComplectationId>18621576</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGJU3G82R1035386</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -2957,6 +3012,67 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>3a76f6efbc7affbafef21248aa41dbe4</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2499000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/e6deef450c9885d83c4d7c18bd0a9f6e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/0c5bbb09022d0cd9c1bc65af347bd8a0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/204e514054092af50bbea8c200c490a6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/1a6fad99bb722b37944fc493e753005d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/f0d9b0d07b858fa01cb8e4537aa51320.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/8d7a8de0f8a99945396b6430b382138d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/9553bd93298dfb98c5f584ddfee2ffa3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/7c2d09655e8ec5bd3b91c523e958c22e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/cc40ea6ebea2cdd302a70d819dce4c7b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/df411c32517ff10494acf58f274a2e9d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/937ceeb80da4b62e2f86df44fc93dd97.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/b638842930ca8039895cf48709d7b337.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/eb1579591f8240e06eb51dca0ff16481.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/71040a109a661137d94069249d48b085.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/55d87aab3127b42b292ddfa86d1bc3f0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/9acf70fd52444235506e85470090f5da.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/b17994307b1a2d749d666125eb256014.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3085111/e7d0683f72ff042954532ae0087767a6.jpg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033655</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L57R3085112</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>00e6066198081745c754eb4c4bfdce99</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3015,6 +3131,67 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGHT1L50R3072668</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>4a18ad2dd4d2e51241afb0d1dcbbe03e</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2499000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>СЕРЫЙ</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/1665f7f862e1a406ceff227d80cb072d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/2ed79760c656f4eb2897e6ea7e587d1a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/ea6edebbabc3d1a5b82701d6efeb43e1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/b79e5b1bbdd72d3a2ccef652754f90e1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/2d6786e270e44a57a01d5595369d5cc6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/abf6a5a631f268e70b162c20e06639e6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/8a457d90a253a013d73152f3fc73ec2d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/e723ee885ab386241760275005b2ebd5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/a015544a343f8cc682375bfc426ede7d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/09ecb7f2a64d3412f725814c58adab94.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/bf8ba9cb7ff41bbd747616f209e4ac73.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/1a3dae61c4cd8a116cb90ceeacff4c00.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/d266575aee099dcf834972b09aee30fb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/9275b2fc7b6b51c5f8dac130df5b14fb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/d5458338232a80a7306b436f6bb2a3b7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/b48584a5b91a1fe94c33032436b8dd59.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/32460b63c30f2e737d8ec518bc5d58b7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L58R3085554/edabd45b72b74b8bf56112135e6658b3.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033655</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L58R3085555</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -3198,6 +3375,67 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGHT1L53R3072874</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>04a007af133bf24a3f7e279c7633ddcf</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2549000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>196000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>396000</MaxDiscount>
+		<Color>СЕРЫЙ</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/37e4c2414293eb7c38434200d60448a4.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/675e947eb5586a40e1eddae5b84f8e1e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/9c2b31a801a73a12322e515cc9484722.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/b13243ce68fe722bbe722ac6c32dec16.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/cf863afbaa95c620952381cbb625433e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/cbbbd1dd1f27db69cadd83e71e0d359d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/f650def381a5e1276fff56c12fb7eb56.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/0ced10a28eff4b9eed515981f08d61d6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/ce55eadf29be300dc83fd7a3523c593c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/0ca8b3d2f91213d5ea3a36b416271a85.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/7e4adefcabc862c083388997586c4049.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/776d53b1ca6f15e15bcc4d8fa5f5501c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/511f60ee9941ede62bb39c42a77456b5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/f129510b0fd9f1f99645aae76ee41d5e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/0344ecc8f9997ee581c0b1d754af7f7a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/731c4d8f836fe6fbbd991ad9e66017a7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/13b30f806511ed6d4481c00508a97631.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L57R3072889/ea4b48576b0a44d7af80f7cd2d1adf23.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L57R3072890</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -3463,7 +3701,26 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<InsuranceDiscount />
 		<MaxDiscount>400000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/39f03f0c510ef72dd4e597fa796c4832.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/b6476e9ff3d6b0c13f93956f01fd10bd.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/e099df41af48fc29d4b64aedbd4effb1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/6856ff2ca83c5f699d8fd0d939607a2a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/7719325b789e06ce3b31a4857c279323.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/e655c8d03bcd500696ed7330dffe61ab.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/9714d09f2c31bb5e2ea7f341b0cae639.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/aa7d1cb15d5b1f16542930fdd6f64a51.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/457241580481e38d6d9ed6f6fc9d8bd0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/0f1290c281a0b105a987e07896f17a91.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/d3b78fef2b71f750153d57b80f53332b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/c505c468df7f19bbc655aba1b3a03574.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/65152e58c77b6a8af2e6bd10f265cf0e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/a66c3c9b32ef0eba62cd869cd1547dc0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/f38149292b03ea18b31a87ef856ede48.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/25d99efed2b9183826ef4ab1ac095412.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/369d51e79a1d9fd56fe5940f91f91dec.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L81R3083638/bd11577b53ad256495298adc8e2cda42.jpeg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS3</Model>
 		<GenerationId>22033653</GenerationId>
@@ -3477,6 +3734,63 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGHT1L81R3083639</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>e5033df5a3365c687a65ace4ed885ce2</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2699000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Синий</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/b19eba2340edeb21d1b0c8e7c7b0cc22.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/63f2b34b7002256e65896972a7add908.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/46e4e03e7ab7c55270bfe14247dca02f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/14b8b6c3c363b9334df275e47fdfe03e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/00eb54d0acebe83d794b556ccd159dea.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/a8b71a14b175f28470264a26d68580ff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/60e67e3a6011f5616c1197a9eb445355.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/fee6de036154d47355e141313965fa81.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/0ebdf44df630320f175497ad7d2398aa.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/ee64cd3087ff51071fdf32d111c748d4.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/42bb58992c51f3e6ef21b01602d7a667.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/5835b7a8f3a8d08f06b953bde7e12cb9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/ba76e979fa93abc339b195f9c6c5764c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L89R3073729/7897ef23b3501a6df86ce1363ea542c4.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033658</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L89R3073730</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -3599,6 +3913,67 @@ GAC GS3-стильный, задающий тренды, ошеломитель�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGHT1L2XR3084199</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>504f3ff68fa0b0361737c9e4e6decfe2</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Указанная стоимость с учетом комплексной сделки.
+
+Стильный кроссовер нового поколения GAC GS3 уже в  GAC Центр Север в Самаре!
+
+Гарантия от производителя 5 лет или 150 000км.
+
+Привлекательные условия кредитования и страхования.
+
+Обмен вашего автомобиля по программе Trade-in.
+
+GAC GS3-стильный, задающий тренды, ошеломительный! GAC GS3 - дорогу-молодым!
+
+Цена указана с учетом установленного дополнительного оборудования.
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2299000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/7d4d5839484e1a444348812c5e4eacc2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/b7541ff356a79bd98ac62a758573ee7a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/3e6ad2d0b525207c41b601c98205b8d7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/b20e58860120702f264bf525b864bd5c.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/a6fc449566e82357f8f0aad8bff04a05.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/8925102dcdeec5492b5f35f2edbe41b0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/d2a03a71431c285df937437d413c0468.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/db063cdac172cd9a822388e28790c6be.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/159d6faed9485bdf60bec79364e4e855.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/00a8424e9b74b291f4a81d147ef13742.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/ba4a9cb9907c5b819d9473b52f9177af.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/88cd782a2771961b8939b5a21119842e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/17220abf78bc79bef4c8881270bbc09f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/2177bfa241a01a32361e7586da74a37e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/5a71c30588488102edbb092ff3acd3a3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/a23a8d5a9df55b5c20926ab1fe5cc984.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/ced2f814d984b41953ba883f9cb73d3a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGHT1L26R3089379/4a5da17da1c0f0e896ff4b792696fe06.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS3</Model>
+		<GenerationId>22033653</GenerationId>
+		<ModificationId>22033654</ModificationId>
+		<ComplectationId>22033656</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGHT1L26R3089380</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
